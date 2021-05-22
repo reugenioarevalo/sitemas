@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+*.layout
+*.exe
+
+
+*.depend
+*.layout
+bin/*

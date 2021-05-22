@@ -1,0 +1,4 @@
+Cosas faltantes:
+
+- Arreglar autonumerico id's clase -> Usuario
+- Modificar funcion de listar todos los provedores
